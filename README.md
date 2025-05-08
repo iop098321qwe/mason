@@ -108,3 +108,13 @@ openjdk version "17.0.9" 2023-10-17
 OpenJDK Runtime Environment (build 17.0.9+9-Debian-1deb12u1)
 OpenJDK 64-Bit Server VM (build 17.0.9+9-Debian-1deb12u1, mixed mode, sharing)
 ```
+
+#### wget
+
+To install `wget`, run the following command:
+
+```bash
+sudo apt install wget -y
+```
+
+### Create a Dedicated System User
